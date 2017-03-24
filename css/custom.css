@@ -1,0 +1,15 @@
+.content-block {
+    margin: 0px 0px !important;
+}
+
+.page {
+    background: #fff;
+}
+
+.content-block-title {
+    margin: 0px 0px 0px;
+}
+
+.content-block-inner:after {
+    height: 0px !important;
+}
